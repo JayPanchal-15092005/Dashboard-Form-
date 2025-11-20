@@ -106,6 +106,11 @@ const dashboardLinks = [
     title: "New Request Form - For BC",
     "url": "https://forms.gle/oZ8f85z6WN8svo39A"
   },
+  {
+    id: 9,
+    title: "ID CARD DETAILS",
+    "url": "https://docs.google.com/spreadsheets/d/1sBG9G0SYZU7Lw_FYBlJspfDGkpW_kZ0H/edit?gid=1841476323#gid=1841476323 "
+  },
 ];
 
 export default function Dashboard() {
