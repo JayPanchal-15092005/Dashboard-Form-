@@ -9,7 +9,7 @@ const dashboardLinks = [
     id: 1,
     title: "Dispatch Entry",
     description: "Create new dispatch entries with auto-fill BC Code lookup",
-    url: "https://dispatch-form-ten.vercel.app/", // Assuming this is still for Dispatch Entry
+    url: "https://dispatch-form-html.vercel.app/", // Assuming this is still for Dispatch Entry
     // Placeholder icon for Dispatch Entry (Box/Package)
     // icon: (
     //   <svg
